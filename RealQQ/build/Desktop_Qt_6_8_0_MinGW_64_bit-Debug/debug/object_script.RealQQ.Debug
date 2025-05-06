@@ -1,0 +1,15 @@
+debug/chatwindow.o
+debug/clienthandlerthread.o
+debug/loginwindow.o
+debug/main.o
+debug/mainwindow.o
+debug/server.o
+debug/socketthread.o
+debug/qrc_back.o
+debug/qrc_head.o
+debug/moc_chatwindow.o
+debug/moc_clienthandlerthread.o
+debug/moc_loginwindow.o
+debug/moc_mainwindow.o
+debug/moc_server.o
+debug/moc_socketthread.o
